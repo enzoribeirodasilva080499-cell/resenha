@@ -1,0 +1,2 @@
+# resenha
+Bot discord
